@@ -2,5 +2,5 @@
 8x8 rgb led matrix code for reading bmp files from SPIFFS on ESP8266
 
 This code included a bmp reader from SPIFFS or memory, and shows how to display
-the resulting image on a LED matrix, susing simple FastLED API.
+the resulting image on a LED matrix, using simple FastLED API.
 
